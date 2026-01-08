@@ -1,5 +1,6 @@
 {
   "name": "@qmacro/common",
+  "repository": "https://github.com/qmacro/common",
   "version": "1.0.0",
   "main": "index.js",
   "devDependencies": {},
