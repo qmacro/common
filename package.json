@@ -1,6 +1,9 @@
 {
   "name": "@qmacro/common",
-  "repository": "https://github.com/qmacro/common",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/qmacro/common.git"
+  },
   "version": "1.0.0",
   "main": "index.js",
   "devDependencies": {},
